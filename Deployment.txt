@@ -1,0 +1,2 @@
+1. create Procfile (web: gunicorn app:main)
+2. Create requirement.txt(pip3 freeze > requirements.txt)
